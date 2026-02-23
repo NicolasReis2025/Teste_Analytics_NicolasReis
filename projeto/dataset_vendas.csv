@@ -1,0 +1,101 @@
+﻿ID;Data;Produto;Categoria;Quantidade;Preço (R$);Total
+1;2023-03-03;Azeite Gallo;Alimentos;15;39.37;590.55
+2;2023-06-03;Whey Protein;Alimentos;4;184.93;739.72
+3;2023-10-03;Chocolate Cacau Show;Alimentos;18;43.27;778.86
+4;2023-12-04;Cafeteira Nespresso;Casa e Jardim;2;718.43;1436.86
+5;2023-01-05;Azeite Gallo;Alimentos;3;34.27;102.81
+6;2023-01-05;Tapete Yoga;Esportes;5;135.83;679.15
+7;2023-02-05;Smart TV LG;Eletrônicos;2;2575.16;5150.32
+8;2023-03-05;Café Nespresso;Alimentos;18;96.34;1734.12
+9;2023-07-05;Aspirador Dyson;Casa e Jardim;5;2282.58;11412.9
+10;2023-08-05;Smartphone Samsung;Eletrônicos;3;2660.8;7982.4
+11;2023-12-05;Halteres 10kg;Esportes;1;214.15;214.15
+12;2023-12-05;Panela Le Creuset;Casa e Jardim;5;904.17;4520.85
+13;2023-01-06;Garrafa Squeeze;Esportes;5;81.55;407.75
+14;2023-02-06;Halteres 10kg;Esportes;1;208.37;208.37
+15;2023-05-06;Smart TV LG;Eletrônicos;5;2963.43;14817.15
+16;2023-11-06;Tablet iPad;Eletrônicos;3;2956.45;8869.35
+17;2023-02-07;Travesseiro Fibrasca;Casa e Jardim;1;148.3;148.3
+18;2023-06-07;Aspirador Dyson;Casa e Jardim;3;2040.6;6121.8
+19;2023-06-07;Halteres 10kg;Esportes;1;200.48;200.48
+20;2023-12-07;Halteres 10kg;Esportes;1;197.22;197.22
+21;2023-12-07;Whey Protein;Alimentos;14;176.11;2465.54
+22;2023-01-08;Travesseiro Fibrasca;Casa e Jardim;5;119.26;596.3
+23;2023-02-08;Cafeteira Nespresso;Casa e Jardim;2;677.78;1355.56
+24;2023-03-08;Panela Le Creuset;Casa e Jardim;3;819.01;2457.03
+25;2023-04-08;Cafeteira Nespresso;Casa e Jardim;4;766.21;3064.84
+26;2023-04-08;Mochila Osprey;Esportes;5;649.31;3246.55
+27;2023-08-09;Bicicleta Trek;Esportes;2;3902.9;7805.8
+28;2023-12-09;Tapete Yoga;Esportes;2;146.24;292.48
+29;2023-02-10;Camiseta Nike;Vestuário;19;143.07;2718.33
+30;2023-03-10;Tapete Yoga;Esportes;1;146.15;146.15
+31;2023-12-10;Chocolate Cacau Show;Alimentos;5;43.49;217.45
+32;2023-12-10;Halteres 10kg;Esportes;4;214.57;858.28
+33;2023-06-11;Café Nespresso;Alimentos;2;85.2;170.4
+34;2023-06-11;Panela Le Creuset;Casa e Jardim;5;823.98;4119.9
+35;2023-12-11;Luminária Philips;Casa e Jardim;1;277.87;277.87
+36;2023-04-12;Vestido Farm;Vestuário;18;419.15;7544.7
+37;2023-08-12;Smart TV LG;Eletrônicos;3;2823.19;8469.57
+38;2023-03-13;Tênis Adidas;Vestuário;15;472.83;7092.45
+39;2023-08-13;iPhone 14;Eletrônicos;2;5953.3;11906.6
+40;2023-02-14;Camiseta Nike;Vestuário;18;159.31;2867.58
+41;2023-05-14;Tapete Yoga;Esportes;1;146.39;146.39
+42;2023-09-14;Fone JBL;Eletrônicos;3;446.47;1339.41
+43;2023-03-15;Calça Levi's;Vestuário;15;298.67;4480.05
+44;2023-04-15;Vinho Miolo;Alimentos;11;83.05;913.55
+45;2023-06-15;Mochila Osprey;Esportes;5;789.61;3948.05
+46;2023-07-15;Jaqueta Zara;Vestuário;4;327.99;1311.96
+47;2023-07-15;Calça Levi's;Vestuário;13;313.68;4077.84
+48;2023-08-15;Mochila Osprey;Esportes;4;743.51;2974.04
+49;2023-05-16;Calça Levi's;Vestuário;13;269.26;3500.38
+50;2023-12-16;Café Nespresso;Alimentos;7;100.1;700.7
+51;2023-02-17;Whey Protein;Alimentos;2;193.18;386.36
+52;2023-10-17;Bicicleta Trek;Esportes;5;4018.22;20091.1
+53;2023-09-18;Chocolate Cacau Show;Alimentos;5;51.72;258.6
+54;2023-04-19;Whey Protein;Alimentos;14;211.32;2958.48
+55;2023-06-19;iPhone 14;Eletrônicos;1;5500.18;5500.18
+56;2023-01-20;Vestido Farm;Vestuário;9;455.11;4095.99
+57;2023-03-20;Aspirador Dyson;Casa e Jardim;1;2394.59;2394.59
+58;2023-04-20;Smart TV LG;Eletrônicos;4;2685.64;10742.56
+59;2023-12-20;Travesseiro Fibrasca;Casa e Jardim;1;116.41;116.41
+60;2023-01-21;Smart TV LG;Eletrônicos;5;2691.39;13456.95
+61;2023-02-21;Jaqueta Zara;Vestuário;8;400.06;3200.48
+62;2023-03-21;Café Nespresso;Alimentos;18;99.9;1798.2
+63;2023-06-21;Notebook Dell;Eletrônicos;5;4423.08;22115.4
+64;2023-08-21;Café Nespresso;Alimentos;6;86.63;519.78
+65;2023-02-22;Chocolate Cacau Show;Alimentos;11;42.92;472.12
+66;2023-03-22;Smart TV LG;Eletrônicos;5;2852.73;14263.65
+67;2023-04-22;Garrafa Squeeze;Esportes;1;71.73;71.73
+68;2023-04-23;Calça Levi's;Vestuário;18;297.46;5354.28
+69;2023-05-23;Garrafa Squeeze;Esportes;5;75.45;377.25
+70;2023-05-23;Fone JBL;Eletrônicos;3;378.36;1135.08
+71;2023-10-23;Halteres 10kg;Esportes;5;215.09;1075.45
+72;2023-03-24;Mochila Osprey;Esportes;3;663.86;1991.58
+73;2023-06-24;Câmera Canon;Eletrônicos;4;3853.99;15415.96
+74;2023-07-24;Whey Protein;Alimentos;19;190.34;3616.46
+75;2023-07-24;Câmera Canon;Eletrônicos;5;3393.26;16966.3
+76;2023-08-24;Câmera Canon;Eletrônicos;2;3560.84;7121.68
+77;2023-09-24;Café Nespresso;Alimentos;1;95.87;95.87
+78;2023-11-24;Vestido Farm;Vestuário;10;450.13;4501.3
+79;2023-02-25;Smartphone Samsung;Eletrônicos;3;2500.64;7501.92
+80;2023-03-25;Panela Le Creuset;Casa e Jardim;3;911.0;2733.0
+81;2023-03-25;Halteres 10kg;Esportes;2;225.16;450.32
+82;2023-04-25;Vinho Miolo;Alimentos;8;87.31;698.48
+83;2023-04-25;Smartphone Samsung;Eletrônicos;2;2712.38;5424.76
+84;2023-11-25;Fone JBL;Eletrônicos;3;447.36;1342.08
+85;2023-03-26;Tênis Adidas;Vestuário;18;531.4;9565.2
+86;2023-07-26;Tapete Yoga;Esportes;3;137.61;412.83
+87;2023-07-26;Bicicleta Trek;Esportes;2;4274.14;8548.28
+88;2023-10-26;Vestido Farm;Vestuário;12;362.69;4352.28
+89;2023-12-26;Vinho Miolo;Alimentos;9;75.24;677.16
+90;2023-07-27;Cafeteira Nespresso;Casa e Jardim;3;736.66;2209.98
+91;2023-06-28;Halteres 10kg;Esportes;2;204.27;408.54
+92;2023-07-28;Câmera Canon;Eletrônicos;2;3891.5;7783.0
+93;2023-07-28;Camiseta Nike;Vestuário;18;147.27;2650.86
+94;2023-12-28;Chocolate Cacau Show;Alimentos;18;48.84;879.12
+95;2023-10-29;Tênis Adidas;Vestuário;1;457.09;457.09
+96;2023-01-30;Mochila Osprey;Esportes;3;639.75;1919.25
+97;2023-01-30;Cafeteira Nespresso;Casa e Jardim;2;662.28;1324.56
+98;2023-07-30;Calça Levi's;Vestuário;11;270.95;2980.45
+99;2023-09-30;Fone JBL;Eletrônicos;1;407.58;407.58
+100;2023-01-31;Luminária Philips;Casa e Jardim;4;237.41;949.64
